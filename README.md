@@ -4,7 +4,7 @@
 
 Submitted by: **Ariana Adames**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -20,7 +20,9 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] set a date/time reminder for each task and place on main view
+* [ ] with shake, remove all tasks to clear out list
+* [ ] given choice of HIGH, MEDIUM, or LOW priority, change text color to RED, YELLOW, or GREEN and sort accordingly
 
 ## Video Walkthrough
 
@@ -32,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Development of Simple Todo included some difficulties in learning about the different layouts that the Android Studio provided from 'Constraint' to 'Relative', especially when designing. Additionally, the developer learned more about the Android environment from intents to responsiveness methods when a click is recieved.
+Development of Simple Todo included some difficulties in learning about the different layouts that the Android Studio provided from 'Constraint' to 'Relative', especially when designing. Additionally, the developer learned more about the Android environment from intents to responsiveness methods when a click is recieved. Background colors on the app reflect the variations on the developer's favorite shades of turquoise. 
 
 
 ## License
